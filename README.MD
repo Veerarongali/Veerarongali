@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Veerarongali/Veerarongali/blob/main/git_banner1.png" alt="GitHub Banner" width="800"/>
+  <img src="https://github.com/Veerarongali/Veerarongali/blob/main/git_banner2.png" alt="GitHub Banner" width="800"/>
 </div>
 
 # 👋 Hi, I'm Veera Kumar Rongali
