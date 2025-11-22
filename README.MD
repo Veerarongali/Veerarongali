@@ -52,7 +52,7 @@ I'm a passionate **DevOps & Cloud Engineer** with over **4+ years of experience*
   Led cloud automation projects using Terraform, Docker, and CI/CD tools (GitHub Actions, Jenkins) on AWS, resulting in a 40% deployment time reduction.
 
 - 🏢 **HUDL** – _Teradata Analyst_  
-  Developed spatial mapping solutions using AutoCAD. Delivered 24/7 monitoring and ensured data accuracy and map validation integrity.
+  Developed optimized SQL/ETL workflows, managed Teradata performance, maintained and monitored APIs using Insomnia, ensured system health with Kibana/Tivoli/AppDynamics, and handled SSL certificate management and integrations via AppViewX.
 
 ---
 
@@ -87,7 +87,8 @@ I'm a passionate **DevOps & Cloud Engineer** with over **4+ years of experience*
 ## 🐍 GitHub Contribution Snake
 
 <div align="center">
-  <img src="https://github.com/Veerarongali/snake/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Veerarongali/Veerarongali/output/snake.svg" alt="Snake animation" />
+
 </div>
 
 ---
