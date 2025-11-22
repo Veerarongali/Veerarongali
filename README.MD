@@ -36,7 +36,7 @@ I'm a passionate **DevOps & Cloud Engineer** with over **4+ years of experience*
 
 - 🛠️ Build and manage infrastructure on **AWS** using **Terraform** for repeatable, secure provisioning
 - ☁️ Operate services on **AWS** with **Kubernetes**, delivering secure and efficient internal deployments
-- 🚀 Design high-performance **CI/CD pipelines** using **AWS DevOps**, **GitHub Actions**, **Jenkins**, and **Jules**, reducing delivery friction
+- 🚀 Design high-performance **CI/CD pipelines** using **AWS DevOps**, **GitHub Actions** and **Jenkins**
 - 📃️ Manage codebases and collaboration with **GitHub** and **Bitbucket**, ensuring streamlined source control and peer workflows
 - 🤖 Automate infrastructure and operational tasks using **Linux**, **Shell scripting**, and **Python**, improving consistency and speed
 - 🧪 Enforce quality with **SonarQube**, and manage artifacts with **Nexus**
@@ -78,7 +78,7 @@ I'm a passionate **DevOps & Cloud Engineer** with over **4+ years of experience*
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Veerarongali&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Haripalepu&theme=dark&hide_border=false" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Veerarongali&theme=dark&hide_border=false" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veerarongali&theme=dark&hide_border=false&layout=compact" />
 </div>
 
