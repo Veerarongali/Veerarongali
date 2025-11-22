@@ -6,7 +6,7 @@
 
 ### AWS DevOps Engineer @ Tata Consultancy Services
 
-🚀 DevOps • Cloud Engineer | AWS | CI/CD | Kubernetes | Terraform
+🚀 DevOps • SRE • Cloud Engineer | AWS | CI/CD | Docker | Kubernetes | Terraform
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/veerarongali/)
 [![Gmail](https://img.shields.io/badge/Email-veerarongali@gmail.com-red?logo=gmail&style=flat)](mailto:veerarongali@gmail.com)
