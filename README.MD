@@ -89,6 +89,7 @@ I'm a passionate **DevOps & Cloud Engineer** with over **4+ years of experience*
 <div align="center">
   <img src="https://raw.githubusercontent.com/Veerarongali/Veerarongali/output/snake.svg" alt="Snake animation" />
 
+###
 </div>
 
 ---
